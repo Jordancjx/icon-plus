@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g id="Group_440" data-name="Group 440" transform="translate(-1070 -4329)">
+    <g id="reading-book" transform="translate(1078.531 4335.984)">
+      <ellipse id="Ellipse_64" data-name="Ellipse 64" cx="4.234" cy="4.133" rx="4.234" ry="4.133" transform="translate(6.333 0)"/>
+      <path id="Path_527" data-name="Path 527" d="M147.926,181.515a5.61,5.61,0,0,1-6.107,0,8.547,8.547,0,0,0-2.658,1.624l5.712,2.142,5.712-2.142A8.546,8.546,0,0,0,147.926,181.515Z" transform="translate(-134.362 -172.656)"/>
+      <path id="Path_528" data-name="Path 528" d="M412.222,310h-.489a.733.733,0,0,0-.733.733v1.955a.733.733,0,0,0,.733.733h.489a1.711,1.711,0,0,0,0-3.422Z" transform="translate(-392.912 -294.859)"/>
+      <path id="Path_529" data-name="Path 529" d="M81.316,231.734a.733.733,0,0,0-.316.6v1.633h.244a2.2,2.2,0,0,1,2.2,2.2v1.955a2.2,2.2,0,0,1-2.2,2.2H81v1.545a.733.733,0,0,0,.476.687l7.346,2.755v-11.1l-6.831-2.562A.733.733,0,0,0,81.316,231.734Z" transform="translate(-79.045 -220.296)"/>
+      <path id="Path_530" data-name="Path 530" d="M276.378,238.125v-1.955a2.2,2.2,0,0,1,2.2-2.2h.244v-1.633a.733.733,0,0,0-.991-.687L271,234.212v11.1l7.346-2.755a.733.733,0,0,0,.476-.687v-1.545h-.244a2.2,2.2,0,0,1-2.2-2.2Z" transform="translate(-259.756 -220.296)"/>
+      <path id="Path_531" data-name="Path 531" d="M43.933,312.689v-1.955A.733.733,0,0,0,43.2,310h-.489a1.711,1.711,0,0,0,0,3.422H43.2A.733.733,0,0,0,43.933,312.689Z" transform="translate(-41 -294.859)"/>
+    </g>
+    <rect id="Rectangle_305" data-name="Rectangle 305" width="38" height="38" transform="translate(1070 4329)" fill="none"/>
+  </g>
+</svg>
